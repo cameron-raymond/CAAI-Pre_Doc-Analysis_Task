@@ -1,8 +1,9 @@
 # CAAI Applied Machine Learning Pre-Doc - Analysis Task
 
 - **Author:** Cameron Raymond
-- **Current Affliation:** University of Oxford, Oxford Internet Institute
-- **Email:** [cameron.raymond@oii.ox.ac.uk](mailto:cameron.raymond@oii.ox.ac.uk)
+- **Affliation:** University of Oxford, Oxford Internet Institute
+- **Program:** MSc, Social Data Science
+- **Email:** [cameron.raymond@hey.com](mailto:cameron.raymond@hey.com)
 - **Github Repo:** [cameron-raymond/CAAI-Pre_Doc-Analysis_Task](https://github.com/cameron-raymond/CAAI-Pre_Doc-Analysis_Task)
 - **Purpose:** Demonstrate an understanding of the data wrangling and modelling skills needed to perform research at the University of Chicago's Center for Applied Artificial Intelligence.
 
